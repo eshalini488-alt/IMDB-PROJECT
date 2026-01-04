@@ -48,4 +48,50 @@ using multiple analytical tools and visualization techniques.
 - **Data Cleaning**
   - Handling missing values  
   - Removing duplicates  
-  - Ren
+  - Renaming columns for consistency  
+
+- **Exploratory Data Analysis (EDA)**
+  - IMDb rating distribution  
+  - Movie duration analysis  
+  - Genre-wise movie count  
+  - Year-wise release trends  
+
+- **Excel Analysis**
+  - Pivot tables for comparison  
+  - Conditional formatting  
+  - Interactive dashboard creation  
+
+- **SQL Queries**
+  - Genre-based filtering  
+  - Revenue and rating aggregation  
+
+- **Data Visualization**
+  - Bar charts  
+  - Line charts  
+  - Pie charts  
+  - Interactive Power BI dashboards  
+
+---
+
+## 📊 Key Insights
+
+- Certain genres consistently generate higher gross revenue  
+- IMDb ratings show variation across genres and movie durations  
+- Movie releases have increased significantly in recent years  
+- High-budget movies do not always guarantee higher ratings  
+
+---
+
+## 📂 Dataset
+
+- **Source:** IMDB 5000 Movie Dataset  
+- **Format:** CSV  
+- **Records:** ~5000 movies  
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates how **Python, Excel, SQL, and Power BI** can be combined to perform comprehensive movie data analysis and deliver meaningful business insights.
+
+---
