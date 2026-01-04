@@ -1,23 +1,51 @@
-# IMDB Movie Analysis Project
+# 🎬 IMDB 5000 Movie Analysis
 
-## Objective
-Analyze IMDB movie data to understand trends in ratings, genres, revenue, and yearly releases.
+## 📌 Project Overview
 
-## Tools Used
-- Python (EDA & Visualization)
-- Excel (Pivot Tables & Dashboards)
-- SQL (Query-based analysis)
-- Power BI (Interactive Dashboard)
+This project is an **end-to-end data analytics workflow** performed on the **IMDB 5000 Movie Dataset**, focusing on analyzing movie performance and identifying trends across multiple parameters such as ratings, genres, budgets, and revenues.
 
-## Folder Structure
-- Data – Raw dataset files
-- Python – EDA & analysis notebooks
-- Excel – Pivot tables and charts
-- PowerBI – Power BI dashboards
-- SQL – SQL queries
-- Report – Final analysis report
+---
 
-## Key Insights (To be updated)
-- Popular genres over the years
-- Revenue contribution by genre
-- Rating patterns across movie durations
+## ✨ Objective
+
+To analyze movie data and extract **actionable insights** related to:
+- 🎥 Movie Genres  
+- 💰 Budgets & Gross Revenue  
+- ⭐ IMDb Ratings  
+- 🎬 Directors & Release Trends  
+
+using multiple analytical tools and visualization techniques.
+
+---
+
+## 🛠️ Tools Used
+
+- **Python (Jupyter Notebook / IDLE)**  
+  Data cleaning and Exploratory Data Analysis (EDA)
+
+- **Libraries**  
+  Pandas, NumPy, Matplotlib, Seaborn
+
+- **Excel**  
+  Pivot Tables, Conditional Formatting, Interactive Dashboards
+
+- **SQL / MySQL**  
+  Structured data querying and extraction
+
+- **Power BI**  
+  Interactive dashboards and advanced visualizations
+
+- **GitHub**  
+  Version control and project hosting
+
+- **MS Word / PDF**  
+  Final report documentation
+
+---
+
+## 📌 Features Implemented
+
+- **Data Cleaning**
+  - Handling missing values  
+  - Removing duplicates  
+  - Ren
